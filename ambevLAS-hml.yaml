@@ -1,3 +1,3 @@
-  nodename.local: srv-srvoapd2-generic
-  username: weblogic
+  nodename.local: 
+  nodename: srv-srvoapd2-generic
   hostname: 172.19.182.231
