@@ -2,3 +2,5 @@
     hostname: 172.19.182.231
     nodename: srv-srvoapd2-generic    
     username: weblogic
+    tags: 'Managed Server'
+    osname: Oracle Linux Server release 5.11
