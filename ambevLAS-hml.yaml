@@ -1,3 +1,10 @@
-  name: "srv-srvoapd2-generic"
-  nodename: srv-srvoapd2-generic
-  hostname: "172.19.182.231"
+  srv-srvoapd2-generic:
+    description: Rundeck server node
+    hostname: 172.19.182.231
+    nodename: srv-srvoapd2-generic
+    osArch: x86_64
+    osFamily: unix
+    osName: Mac OS X
+    osVersion: 10.6.6
+    tags: ''
+    username: weblogic
